@@ -13,4 +13,11 @@ The internal penetration test found several alarming vulnerabilities on Hans’ 
 
 ### Findings
 -  Refer to the following report:
-![Penetration Report](https://github.com/ABliss523/GoodCorp-Penetration-Report/blob/main/GoodSecurity%20Report.docx.pdf)
+![](https://github.com/ABliss523/GoodCorp-Penetration-Report/blob/main/Penetration%20Report/0001.jpg)
+![](https://github.com/ABliss523/GoodCorp-Penetration-Report/blob/main/Penetration%20Report/0002.jpg)
+![](https://github.com/ABliss523/GoodCorp-Penetration-Report/blob/main/Penetration%20Report/0003.jpg)
+![](https://github.com/ABliss523/GoodCorp-Penetration-Report/blob/main/Penetration%20Report/0004.jpg)
+![](https://github.com/ABliss523/GoodCorp-Penetration-Report/blob/main/Penetration%20Report/0005.jpg)
+![](https://github.com/ABliss523/GoodCorp-Penetration-Report/blob/main/Penetration%20Report/0006.jpg)
+![](https://github.com/ABliss523/GoodCorp-Penetration-Report/blob/main/Penetration%20Report/0007.jpg)
+![](https://github.com/ABliss523/GoodCorp-Penetration-Report/blob/main/Penetration%20Report/0008.jpg)
